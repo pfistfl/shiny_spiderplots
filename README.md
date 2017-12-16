@@ -1,9 +1,16 @@
 # Create Spiderplots/Radarplots using Shiny
 
-To run the shiny app use:
+In R or RStudio, to install all packages run:
+
 ```r
+install.packages("shiny")
 install.packages("shinyBS")
 install.packages("shinyDashboard")
+install.packages("ggplot2")
+```
+
+Afterwards, to run the App use:
+```r
 library(shiny)
 runGitHub("pfistfl/shiny_spiderplots")
 ```
