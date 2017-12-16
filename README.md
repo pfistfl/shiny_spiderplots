@@ -6,6 +6,8 @@ In R or RStudio, to install all packages run:
 install.packages("shiny")
 install.packages("shinyBS")
 install.packages("shinyDashboard")
+install.packages("data.table")
+install.packages("DT")
 install.packages("ggplot2")
 ```
 
