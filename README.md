@@ -2,6 +2,6 @@
 
 To run the shiny app use:
 ```r
-library(devtools)
+library(shiny)
 runGitHub("pfistfl/shiny_spiderplots")
 ```
