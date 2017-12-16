@@ -2,6 +2,8 @@
 
 To run the shiny app use:
 ```r
+install.packages("shinyBS")
+install.packages("shinyDashboard")
 library(shiny)
 runGitHub("pfistfl/shiny_spiderplots")
 ```
