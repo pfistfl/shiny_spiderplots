@@ -1,7 +1,10 @@
 # Create Spiderplots/Radarplots using Shiny
 
-In R or RStudio, to install all packages run:
+![Example Plot](https://github.com/pfistfl/shiny_spiderplots/blob/master/examples/Spiderplot_Soft%20Skills.png)
 
+## How to run the App
+
+In R or RStudio, to install all packages run:
 ```r
 install.packages("shiny")
 install.packages("shinyBS")
