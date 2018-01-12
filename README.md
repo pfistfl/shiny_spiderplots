@@ -4,6 +4,10 @@
 
 ## How to run the App
 
+### From the Web
+[On shinyapps.io](https://pfistfl.shinyapps.io/awesome-radarplots-shiny/)
+
+### Locally
 In R or RStudio, to install all packages run:
 ```r
 install.packages("shiny")
